@@ -1,2 +1,2 @@
 # Iris-Dataset-Deep-Learning
-Neural networks that classify they iris dataset
+Neural networks that classify the iris dataset
